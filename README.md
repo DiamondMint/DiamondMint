@@ -17,10 +17,6 @@ Hi, I'm <a href="https://github.com/DiamondMint"> Paola Briseño </a>
  <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>  </a> <br/>
 </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-</p>
-<p align="center">
-  <!-- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&lines=Computer+Science+Student;Data+Scientist;ML+AND+DL+Enthusiast;Python+Developer;Committed+to+lifelong+learning&center=true&width=980&height=35"></a> -->
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Biomedical+Engineer;Design;AR+And+VR+Enthusiast;Python+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
  
@@ -41,13 +37,18 @@ Hi, I'm <a href="https://github.com/DiamondMint"> Paola Briseño </a>
 ```
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adilrahman&theme=react-dark&hide_border=true&area=true)
+<!--Estadisticas
+ -->
 
 
 <br>
 <div align="center">
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+
+🧰 Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,py,c,vscode,obsidian,matlab,blender,ps,ai,linux&theme=light)](https://skillicons.dev)
 
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
@@ -56,6 +57,7 @@ Hi, I'm <a href="https://github.com/DiamondMint"> Paola Briseño </a>
 </div>
 
 <img src="https://img.shields.io/badge/Focus-Virtual%20Reality-brightgreen" />  <img src="https://gpvc.arturio.dev/DiamondMint" alt="Profile views" align='right'/> <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />  <img src="https://img.shields.io/badge/Focus-Medical%20Imaging-brightgreen" />  <a href="https://github.com/DiamondMint/">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
 </br>
@@ -69,7 +71,9 @@ Hi, I'm <a href="https://github.com/DiamondMint"> Paola Briseño </a>
  </br> </br>
 
 
+<!--Gi graph?
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=DiamondMint&theme=react-dark&hide_border=true&area=true)
+-->
 
 
 <br>
