@@ -31,10 +31,9 @@ Hi, I'm <a href="https://github.com/DiamondMint"> Paola Briseño </a>
 
 
 ```python
-> I am a Biomedical Engineer 💻
-> I have a Bachelors in Computer Science from KTU 📚 - kerala,India
+> I have a Bachelors in Biomedical Engineering from UAM-I 📚 - CDMX, Mexico
 > I have a strong interest in Data Science and software development 📝
-> Working on Virtual Reality Enviroments & Medical Imaging 🔭
+> Working on Virtual Reality Enviroments & Medical Imaging 💻
 > Learning about GODOT, UNITY and Medical Image Processing 👨‍💻 
 > Interested in deep learning and feature extraction 🚩
 
